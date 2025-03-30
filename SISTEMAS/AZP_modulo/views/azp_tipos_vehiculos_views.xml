@@ -1,0 +1,98 @@
+<odoo>
+    <!-- Acción para Tipos de Vehículos -->
+    <record id="azp_tipos_vehiculos_action" model="ir.actions.act_window">
+        <field name="name">Listado de Tipos de Vehículos</field>
+        <field name="res_model">azp_tipos_vehiculos</field>
+        <field name="view_mode">kanban,tree,form</field>
+    </record>
+
+    <!-- Acción para Alquileres de Vehículos -->
+    <record id="azp_alquileres_vehiculos_action" model="ir.actions.act_window">
+        <field name="name">Alquileres de Vehículos</field>
+        <field name="res_model">azp_alquileres_vehiculos</field>
+        <field name="view_mode">tree,form</field>
+        <field name="domain">[]</field> <!-- Se establecerá dinámicamente -->
+    </record>
+    <record id="azp_generate_tipo_vehiculo_action" model="ir.actions.server">
+        <field name="name">Generar tipo de vehiculo</field>
+        <field name="model_id" ref="model_azp_tipos_vehiculos"/>
+        <field name="state">code</field>
+        <field name="code">
+            model.action_generar_tipo_vehiculo()
+        </field>
+    </record>
+    <!-- Vista Kanban -->
+    <record id="azp_tipos_vehiculos_view_kanban" model="ir.ui.view">
+        <field name="name">azp_tipos_vehiculos.kanban</field>
+        <field name="model">azp_tipos_vehiculos</field>
+        <field name="arch" type="xml">
+            <kanban>
+                <templates>
+                    <t t-name="kanban-box">
+                        <div class="oe_kanban_card">
+                            <div class="oe_kanban_content">
+                                <strong><field name="name"/></strong>
+                                <t t-if="record.clasificacion_energetica and record.clasificacion_energetica.value">
+                                    <div>Clasificación: <field name="clasificacion_energetica"/></div>
+                                </t>
+                                <t t-if="record.enganche_carro and record.enganche_carro.value">
+                                    <div>Enganche para Carro: Sí</div>
+                                </t>
+                            </div>
+                        </div>
+                    </t>
+                </templates>
+            </kanban>
+        </field>
+    </record>
+
+    <!-- Vista de árbol -->
+    <record id="azp_tipos_vehiculos_view_tree" model="ir.ui.view">
+        <field name="name">azp_tipos_vehiculos.tree</field>
+        <field name="model">azp_tipos_vehiculos</field>
+        <field name="arch" type="xml">
+            <tree string="Tipos de Vehículos">
+                <field name="name"/>
+                <field name="clasificacion_energetica"/>
+                <field name="enganche_carro"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- Vista de formulario -->
+    <record id="azp_tipos_vehiculos_view_form" model="ir.ui.view">
+        <field name="name">azp_tipos_vehiculos.form</field>
+        <field name="model">azp_tipos_vehiculos</field>
+        <field name="arch" type="xml">
+            <form string="Tipo de Vehículo">
+                <header>
+                    <!-- Botón de estadísticas -->
+                    <button
+                        name="action_estadisticas"
+                        string="Alquileres"
+                        type="object"
+                        icon="fa-bar-chart"
+                        class="oe_stat_button"
+                        attrs="{'invisible': [('alquileres_count', '=', 0)]}"
+                    >S
+                        <field name="alquileres_count" widget="statinfo"/>
+                    </button>
+                </header>
+                <sheet>
+                    <group>
+                        <field name="name"/>
+                        <field name="clasificacion_energetica"/>
+                        <button name="action_clasificacion_wizard" type="object" string="Elegir Clasificación" class="btn-primary"/>
+                        <field name="enganche_carro"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!--<menuitem id="azp_submenu_generate_tipo_vehiculo"
+              name="Generar tipo de vehiculo"
+              parent="azp_opciones_menu"
+              sequence="40"
+              action="azp_server_action_generar_tipo_vehiculo"/>-->
+</odoo>

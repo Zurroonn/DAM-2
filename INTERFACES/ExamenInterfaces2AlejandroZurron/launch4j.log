@@ -1,0 +1,358 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\examen.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\app\Manana\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\8.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\examen.exe"
+Args length:	85/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\examen.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\app\Manana\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\8.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\examen.exe"
+Args length:	85/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\examen.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspots
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspots\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\app\Manana\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\8.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe"
+Args length:	83/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\app\Manana\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\8.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe"
+Args length:	83/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\app\Manana\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\8.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe"
+Args length:	83/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.023.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\app\Manana\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\8.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_351
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+Ignore:		1.008.000_351
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23
+Version string: 1.023.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Match:		1.023.000
+Runtime used:	1.023.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe"
+Args length:	83/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.023.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\app\Manana\product\21c\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Manana\AppData\Local\Programs\Python\Python312\;C:\Users\Manana\AppData\Local\Programs\Python\Launcher\;C:\Users\Manana\AppData\Local\Microsoft\WindowsApps;C:\Users\Manana\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\8.0\bin;;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\app\Manana\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Manana\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MongoDB\Server\8.0\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_351
+Version string: 1.008.000_351 / 64-Bit (Ignore)
+Ignore:		1.008.000_351
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23
+Version string: 1.023.000 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Match:		1.023.000
+Runtime used:	1.023.000 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Manana\Desktop\Interfaces\ExamenInterfaces2AlejandroZurron\mapa.exe"
+Args length:	83/32768 chars
+Exit code:	259

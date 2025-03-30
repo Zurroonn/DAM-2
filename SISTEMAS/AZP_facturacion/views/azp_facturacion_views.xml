@@ -1,0 +1,56 @@
+<odoo>
+    <record id="azp_alquileres_vehiculos_action" model="ir.actions.act_window">
+        <field name="name">Listado de Alquileres</field>
+        <field name="res_model">azp_alquileres_vehiculos</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <record id="azp_alquileres_vehiculos_view_tree" model="ir.ui.view">
+        <field name="name">azp_alquileres_vehiculos.tree</field>
+        <field name="model">azp_alquileres_vehiculos</field>
+        <field name="arch" type="xml">
+            <tree string="Alquileres de Vehículos">
+                <field name="display_name"/>
+                <field name="state"/>
+                <field name="cliente_id"/>
+                <field name="usuario_id"/>
+                <field name="fecha_inicio"/>
+                <field name="fecha_fin"/>
+                <field name="duracion"/>
+                <field name="precio_final"/>
+            </tree>
+        </field>
+    </record>
+
+    <record id="azp_alquileres_vehiculos_view_form" model="ir.ui.view">
+        <field name="name">azp_alquileres_vehiculos.form</field>
+        <field name="model">azp_alquileres_vehiculos</field>
+        <field name="arch" type="xml">
+            <form>
+                <header>
+                    <field name="state" widget="statusbar"/>
+                    <button name="action_facturar" string="Facturar" type="object" class="oe_highlight" states="terminado"/>
+                    <button name="action_terminar_alquiler" string="Terminar Alquiler" type="object" class="btn-success" states="en_proceso"/>
+                    <button name="action_cancelar" string="Cancelar" type="object" class="btn-danger" states="previo,en_proceso"/>
+                </header>
+                <sheet>
+                    <div class="oe_title">
+                        <h1>
+                            <field name="display_name"/>
+                        </h1>
+                    </div>
+                    <notebook>
+                        <page string="Operación">
+                            <group>
+                                <field name="vehiculo_id" domain="[('state', '=', 'disponible')]"/>
+                                <field name="cliente_id"/>
+                                <field name="usuario_id"/>
+                                <field name="precio_final" readonly="1"/>
+                            </group>
+                        </page>
+                    </notebook>
+                </sheet>
+            </form>
+        </field>
+    </record>
+</odoo>
